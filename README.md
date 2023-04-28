@@ -1,3 +1,3 @@
 # My Curriculum Vitae
 
-Visit http://lombdev.github.io/cv/
+Visit https://lombdev.github.io/cv/
