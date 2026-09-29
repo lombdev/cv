@@ -1,0 +1,40 @@
+# Rui Horta – .NET Full Stack Developer
+
+> Personal portfolio and CV site for Rui Horta, a .NET full stack developer based in Lisbon, Portugal.
+
+## About
+
+Rui Horta is a software developer with 10+ years of professional experience (since 2014) building web applications. He specialises in the Microsoft .NET stack and modern front-end frameworks.
+
+- **Location:** Lisbon, Portugal
+- **Email:** ruihorta88@hotmail.com
+- **LinkedIn:** https://pt.linkedin.com/in/ruihortadev
+- **CV (PT):** https://lombdev.github.io/cv/cv/ruihortacv.pdf
+- **CV (EN):** https://lombdev.github.io/cv/cv/ruihortacv-en.pdf
+
+## Skills
+
+- **Backend:** .NET, C#, Entity Framework, LINQ, Web Forms, MVC, Web API, Node.js
+- **Frontend:** JavaScript, TypeScript, Angular, React, NX, Storybook
+- **Architecture:** OOP, SOLID, MVC, MVVM, DRY
+- **Database:** SQL
+- **Cloud & DevOps:** Azure, Git
+- **AI-Assisted Software Development**
+
+## Education
+
+- ISCTE-IUL
+
+## Selected Projects
+
+- **Management software** – .NET Core 2, MVC, Azure (cloud web app)
+- **Bank account opening platform** – .NET, MVC, responsive web app
+- **Order management system** – .NET, Web Forms
+- **Century21 21Online** – .NET, MVC, CRM web app
+- **Beachcam.meo.pt** – .NET, MVC web app (https://beachcam.meo.pt/)
+- **falisboa.pt** – (https://www.falisboa.pt/)
+
+## Pages
+
+- [Home / Portfolio](https://lombdev.github.io/cv/)
+- [Full CV](https://lombdev.github.io/cv/cv/)

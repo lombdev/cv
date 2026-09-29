@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lombdev.github.io/cv/sitemap.xml
